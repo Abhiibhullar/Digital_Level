@@ -1,2 +1,2 @@
 ## Digial Level Project
-E
+A simple leveler made with arduino and mpu6050
